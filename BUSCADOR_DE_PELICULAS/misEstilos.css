@@ -1,0 +1,39 @@
+body{
+ text-align: center;
+ font-family: 'Courier New', Courier, monospace;   
+}
+
+h1{
+    color: aquamarine;
+}
+
+input{
+    height: 10px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+}
+
+select{
+    height: 30px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+}
+
+button{
+    height: 45px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+}

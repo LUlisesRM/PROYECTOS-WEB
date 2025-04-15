@@ -1,0 +1,11 @@
+{
+    "data":[
+            {"nombre": "BACK TO THE FUTURE", "sinopsis": "El dolescente Marty McFly"},
+            {"nombre": "THE GODFATHER", "sinopsis": "Don Vito Corleone es el respetado"},
+            {"nombre": "FORREST GUMP", "sinopsis": "Forrest Gump sufre desde pequeño"},
+            {"nombre": "THE USUAL SUSPECTS", "sinopsis": "Dave Kujan, un agente especial"},
+            {"nombre": "FARGO", "sinopsis": "Un hombre apocado y timido"}
+            
+        ]
+
+}

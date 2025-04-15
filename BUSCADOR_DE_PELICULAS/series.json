@@ -1,0 +1,11 @@
+{
+    "data":[
+            {"nombre": "BAND OF BROTHERS", "sinopsis": "Narra la historia de la Easy"},
+            {"nombre": "GAME OF THRONES", "sinopsis": "La historia se desarrolla en un"},
+            {"nombre": "BREAKING BAD", "sinopsis": "Tras cumplir 50 años"},
+            {"nombre": "THE OFFICE", "sinopsis": "Corrosivo retrato de los miembros"},
+            {"nombre": "THE SIMPSON", "sinopsis": "Narra la historia de una peculiar familia"}
+            
+        ]
+
+}
